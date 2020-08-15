@@ -4,9 +4,10 @@
 <h5 align="center"> 🔭 I’m currently working on Docker-Containerised-Automated Tools</h1>
 <h5 align="center"> 🌱 I’m currently learning </h1>
 <p align="center">
-<img alt="Linux" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/linux.svg" />
+<img alt="Linux" height="22" width="22"  src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
   <img alt="Docker" height="22" width="22" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
 <img alt="Bash" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/gnubash.svg" />
+  <img alt="Kali Linux" height="22" width="22" src="https://img.icons8.com/color/48/000000/kali-linux.png"/> 
   </p>
 <h5 align="center"> 📫 How to reach me: </h1>
 <p align="center"> Send Me a messsage 😄 <br> <a href="https://twitter.com/harekrishna_rai"><img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
