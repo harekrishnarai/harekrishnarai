@@ -25,4 +25,4 @@
 </p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=harekrishnarai&show_icons=true alt=Harekrishna /> </p>
 
-![](https://komarev.com/ghpvc/?username=harekrishnarai&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=harekrishnarai&color=brightgreen)
