@@ -1,4 +1,5 @@
-<h2 align="center"> Hi there, I'm Harekrishna Rai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h2 align="center"> Hi there, I'm Harekrishna Rai 👋</h1>
+
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="200px" ><br> </p>
 <h4 align="center"> I'm a Student, TechGeek </h1>
 <h5 align="center"> 🔭 I’m currently working on Docker-Containerised-Automated Tools</h1>
