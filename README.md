@@ -1,6 +1,9 @@
 <h2 align="center"> Hi there, I'm Harekrishna Rai 👋</h1>
 
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="200px" ><br> </p>
+
+---
+
 <h4 align="center"> I'm a Student, TechGeek </h1>
 <h5 align="center"> 🔭 I’m currently working on Docker-Containerised-Automated Tools</h1>
 <h5 align="center"> 🌱 I’m currently learning </h1>
@@ -24,7 +27,13 @@
 <img alt="Subl" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/sublimetext.svg" />
 <img alt=VsCode"" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/visualstudiocode.svg" />
 </p>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harekrishnarai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harekrishna's Github Stats">
-</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harekrishnarai&color=brightgreen)
+---
+
+<div align="center"><a href="#">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=harekrishnarai&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harekrishnarai&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+</div>
