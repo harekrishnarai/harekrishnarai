@@ -33,6 +33,7 @@
 <div align="center"><a href="#">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=harekrishnarai&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harekrishnarai&theme=tokyonight&hide_border=true"/><br><br>
   <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harekrishnarai&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
