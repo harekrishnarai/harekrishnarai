@@ -36,4 +36,31 @@
   <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harekrishnarai&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
+
+### My Projects ✨:
+  
+<a href="https://github.com/harekrishnarai/telegram-to-gmail">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=telegram-to-gmail&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/harekrishnarai/simple_calc">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=simple_calc&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/harekrishnarai/cloudwithterraform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=cloudwithterraform&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/harekrishnarai/apk-downloader-from-cli">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=apk-downloader-from-cli&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/harekrishnarai/kubernetes-on-aws">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=kubernetes-on-aws&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/harekrishnarai/docker-project">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=docker-project&theme=tokyonight" />
+</a>
+
 </div>
