@@ -1,7 +1,5 @@
 <h2 align="center"> Hi there, I'm Harekrishna Rai 👋</h1>
 
-<p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="200px" ><br> </p>
-
 ---
 
 <h4 align="center"> I'm a Student, TechGeek </h1>
