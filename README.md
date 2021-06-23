@@ -24,6 +24,7 @@
 <img alt="Subl" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/sublimetext.svg" />
 <img alt=VsCode"" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/visualstudiocode.svg" />
 </p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=harekrishnarai&show_icons=true alt=Harekrishna /> </p>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harekrishnarai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harekrishna's Github Stats">
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harekrishnarai&color=brightgreen)
