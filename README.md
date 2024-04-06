@@ -18,7 +18,8 @@ Plus, I'm skilled in photo editing 📷 and community building, with a talent fo
 Let's work together to take your security measures to the next level! 🔒🚀
 </div>
 <h1></h1>
-
+<Details>
+<summary>👨‍🚀  More...</summary>
 <div align="center" >
   <h1 align='center'>Git Stats⚡</h1>
  
@@ -32,3 +33,4 @@ Let's work together to take your security measures to the next level! 🔒🚀
 ![](https://github-profile-trophy.vercel.app/?username=harekrishnarai&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
   
 </div>
+</Details>
