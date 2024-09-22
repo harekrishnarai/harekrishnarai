@@ -1,9 +1,7 @@
-<h1 align="center">Hey 👋, I'm<a href="https://github.com/harekrishnarai/"> Hare Krishna Rai</a></h1> 
-<div align="left" >
-<p> <img src="https://komarev.com/ghpvc/?username=harekrishnarai&label=Profile%20views&color=0e75b6&style=flat" alt="harekrishnarai" /> </p>
+<h1 align="center">Hey there, I'm Hare Krishna Rai <img src="https://raw.githubusercontent.com/harekrishnarai/harekrishnarai/master/wave.gif" width="30px"></h1> 
 
- <img align="right" height="260" width="375" alt="" src="https://user-images.githubusercontent.com/112663758/210334142-9208f722-e697-47e4-b854-6069c69cb60a.gif" />
-  
+[![Twitter Badge](https://img.shields.io/badge/-@harekrishna_rai-000?style=flat-square&labelColor=000&logo=x&logoColor=white&link=https://x.com/harekrishna_rai)](https://x.com/harekrishna_rai)  [![Linkedin Badge](https://img.shields.io/badge/-harekrishnarai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harekrishnarai/)](https://www.linkedin.com/in/harekrishnarai/) <img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/>
+
 
 A security professional with diverse skills and a passion for innovation! 🔒
 
@@ -34,3 +32,5 @@ Let's work together to take your security measures to the next level! 🔒🚀
   
 </div>
 </Details>
+<div align="left" >
+<p> <img src="https://komarev.com/ghpvc/?username=harekrishnarai&label=Profile%20views&color=0e75b6&style=flat" alt="harekrishnarai" /> </p>
