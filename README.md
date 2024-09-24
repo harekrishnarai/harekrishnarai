@@ -3,15 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@harekrishna_rai-000?style=flat-square&labelColor=000&logo=x&logoColor=white&link=https://x.com/harekrishna_rai)](https://x.com/harekrishna_rai)  [![Linkedin Badge](https://img.shields.io/badge/-harekrishnarai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harekrishnarai/)](https://www.linkedin.com/in/harekrishnarai/) <img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/>
 
 
-A security professional with diverse skills and a passion for innovation! 🔒
-
-My expertise includes web and mobile app penetration testing, CTFs, networking, coding, and more. 💻📱🔍
-
-As a Product Security Engineer at HighRadius, I have work experience in secure code review including SAST,SCA and Manual PT. 🔒👨‍💻🛡️
-
-I approach security challenges with a creative perspective, using skills in research, OSINT, and pentesting.🔍💡
-
-Plus, I'm skilled in photo editing 📷 and community building, with a talent for communication and collaboration. 🤝
+- A security professional with diverse skills and a passion for innovation! 🔒
+- My expertise includes web and mobile app penetration testing, CTFs, networking, coding, and more. 💻📱🔍
+- As a Product Security Engineer at HighRadius, I have work experience in secure code review including SAST,SCA and Manual PT. 
 
 Let's work together to take your security measures to the next level! 🔒🚀
 </div>
