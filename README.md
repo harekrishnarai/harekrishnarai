@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/harekrishnarai/">
     <img src="https://img.shields.io/badge/-Hare%20Krishna%20Rai-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/>
+<!--   <img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/> -->
 </p>
 
 ---
