@@ -4,8 +4,9 @@
   <a href="https://x.com/harekrishna_rai">
     <img src="https://img.shields.io/badge/-@harekrishna_rai-000?style=flat-square&labelColor=000&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harekrishnarai/">
-    <img src="https://img.shields.io/badge/-Hare%20Krishna%20Rai-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Hare%20Krishna%20Rai-blue?style=flat-square&labelColor=000&logo=linkedin&logoColor=white&cache_bust=1" alt="LinkedIn Badge"/>
   </a>
 </p>
 
