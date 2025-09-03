@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-@harekrishna_rai-000?style=flat-square&labelColor=000&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/harekrishnarai/">
-    <img src="https://img.shields.io/badge/-Hare%20Krishna%20Rai-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Hare%20Krishna%20Rai-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/> -->
 </p>
