@@ -20,7 +20,7 @@
 
 🎯 **Security Researcher | Speaker | Open Source Contributor**
 
-I'm a **Product Security Engineer** at **Okta (Auth0 Team)**, where I focus on securing the software supply chain. My passion lies in offensive security research, tool development, and sharing knowledge with the community.
+I'm a **Product Security Engineer** focused on securing the software supply chain. My passion lies in offensive security research, tool development, and sharing knowledge with the community.
 
 - 🔒 Creator of [**SCAGoat**](https://github.com/harekrishnarai/Damn-vulnerable-sca), a vulnerable-by-design application to benchmark SCA tools and simulate supply chain attacks.
 - 🧰 Regular secure coding trainer, conference reviewer, and CTF enthusiast.
