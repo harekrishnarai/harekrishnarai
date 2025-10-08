@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Hare Krishna Rai <img src="https://raw.githubusercontent.com/harekrishnarai/harekrishnarai/master/wave.gif" width="30px"></h1>
 
-<img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/>
+<img align="center" src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/>
 
 
 
