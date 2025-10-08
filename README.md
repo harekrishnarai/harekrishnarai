@@ -4,7 +4,7 @@
 
 <p align="center">
   
-<img align="center" src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/><br>
+<img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/><br>
   <a href="https://x.com/harekrishna_rai">
     <img src="https://img.shields.io/badge/@harekrishna_rai-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
