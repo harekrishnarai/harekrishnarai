@@ -52,6 +52,9 @@ I have presented my research and tools at several top-tier security conferences,
 - **AppSec Village DC 2024:** [SCAGoat Arsenal Tool](https://www.appsecvillage.com/events/dc-2024/arsenal-scagoat-661284)
 
 <p align="center">
+    <a href="https://blackhat.com/eu-25/arsenal/schedule/#catch-the-flow-securing-cicd-workflows-with-flowlyt-48561">
+    <img src="https://img.shields.io/badge/BlackHat%20Europe-2025-black?style=for-the-badge&logo=blackhat&logoColor=white" alt="Black Hat Europe 2025"/>
+  </a>
   <a href="https://www.blackhat.com/us-25/arsenal/schedule/#cloudlens-45646">
     <img src="https://img.shields.io/badge/BlackHat%20USA-2025-black?style=for-the-badge&logo=blackhat&logoColor=white" alt="Black Hat USA 2025"/>
   </a>
