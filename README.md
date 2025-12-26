@@ -44,6 +44,7 @@ I believe in giving back to the community and actively contribute to key open so
 
 I have presented my research and tools at several top-tier security conferences, including:
 
+- **Black Hat Europe 2025:** [Flowlyt](https://blackhat.com/eu-25/arsenal/schedule/#catch-the-flow-securing-cicd-workflows-with-flowlyt-48561)
 - **Black Hat USA 2025:** [CloudLens](https://www.blackhat.com/us-25/arsenal/schedule/#cloudlens-45646)
 - **Black Hat Asia 2025:** [SCAGoat - Exploiting Damn Vulnerable and Compromised SCA Application](https://www.blackhat.com/asia-25/arsenal/schedule/index.html#scagoat---exploiting-damn-vulnerable-and-compromised-sca-application-43960)
 - **Black Hat Europe 2024:** [SCAGoat - Exploiting Damn Vulnerable SCA Application](https://www.blackhat.com/eu-24/arsenal/schedule/index.html#scagoat---exploiting-damn-vulnerable-sca-application-42139)
